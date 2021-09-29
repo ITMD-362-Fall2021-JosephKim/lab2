@@ -30,6 +30,16 @@ label input{
 	padding: 0.5em;
 }
 
+#submitButton{
+	width: 50%;
+	margin-left: 25%;
+}
+
+#resetButton{
+	width: 50%;
+	margin-left: 25%;
+}
+
 div{
   margin-bottom: 10px;
   position: relative;
