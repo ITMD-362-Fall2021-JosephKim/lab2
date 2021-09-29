@@ -1,23 +1,33 @@
-html{
-	font-family: Times New Roman, serif;
-	background-color: #6a6a45;
-}	
+html {
+  font-family: Times New Roman, serif;
+   background-color: #3EB650;
+   font-weight: bold;
+   font-style: italic;
+}
+header {
+	color: #CAE7DF;
+	text-align: center;
+}
+header h2{
+	font-size: 40px;
+}
 
 fieldset{
-	font-size: 24px;
-	text-align: 21px;
-	border: black;
+	font-size: 1.25em;
+	margin: 1.3em;
+	border: #150734 solid;
 }
 
 legend{
-	text-align:center;
-}
+	text-align: center;
+	font-size: 1.3em;
 
+}
 label input{
-    height: 0.5em;
-	width: 70%;
-    margin: 0.5px 0;
-	padding: 0.3em;
+	height: 0.5em;
+	width: 51%;
+    margin: 0.5em 0;
+	padding: 0.5em;
 }
 
 div{
@@ -45,3 +55,5 @@ input:valid+span:after{
   padding-left: 5px;
   color: #009000;
 }
+
+
