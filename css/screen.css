@@ -3,9 +3,15 @@ html {
 	background-color: #6a6a45;
 }	
 
+fieldset {
+	font-size: 24px;
+	text-align: 21px;
+	border: #000000;
+}
 
-
-
+legend {
+	text-align:center;
+}
 
 div {
   margin-bottom: 10px;
