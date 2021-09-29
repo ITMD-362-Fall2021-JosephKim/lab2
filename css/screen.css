@@ -1,38 +1,38 @@
-html {
+html{
 	font-family: Times New Roman, serif;
 	background-color: #6a6a45;
 }	
 
-fieldset {
+fieldset{
 	font-size: 24px;
 	text-align: 21px;
 	border: #000000;
 }
 
-legend {
+legend{
 	text-align:center;
 }
 
-div {
+div{
   margin-bottom: 10px;
   position: relative;
 }
 
-input[type="number"] {
+input[type="number"]{
   width: 100px;
 }
 
-input + span {
+input + span{
   padding-right: 30px;
 }
 
-input:invalid+span:after {
+input:invalid+span:after{
   position: absolute; content: '✖';
   padding-left: 5px;
   color: #8b0000;
 }
 
-input:valid+span:after {
+input:valid+span:after{
   position: absolute;
   content: '✓';
   padding-left: 5px;
