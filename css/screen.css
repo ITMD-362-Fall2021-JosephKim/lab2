@@ -6,11 +6,18 @@ html{
 fieldset{
 	font-size: 24px;
 	text-align: 21px;
-	border: #000000;
+	border: black;
 }
 
 legend{
 	text-align:center;
+}
+
+label input{
+    height: 0.5em;
+	width: 70%;
+    margin: 0.5px 0;
+	padding: 0.3em;
 }
 
 div{
