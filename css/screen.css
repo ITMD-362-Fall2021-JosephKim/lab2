@@ -4,6 +4,7 @@ html {
    font-weight: bold;
    font-style: italic;
 }
+
 header {
 	color: #CAE7DF;
 	text-align: center;
@@ -23,21 +24,12 @@ legend{
 	text-align: center;
 
 }
+
 label input{
 	height: 0.5em;
 	width: 51%;
     margin: 0.5em 0;
 	padding: 0.5em;
-}
-
-#submitButton{
-	width: 50%;
-	margin-left: 25%;
-}
-
-#resetButton{
-	width: 50%;
-	margin-left: 25%;
 }
 
 div{
